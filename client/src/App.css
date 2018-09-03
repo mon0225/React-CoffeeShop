@@ -1,0 +1,21 @@
+.app-wrapper {
+  padding: 15px 10%;
+}
+
+.app-wrapper h1 {
+  margin-bottom: 0;
+}
+
+.app-wrapper span {
+  color: #c2c0c0;
+}
+
+.app-wrapper ul {
+  margin-top: 50px;
+}
+
+.app-wrapper ul li {
+  list-style-type: none;
+  margin-top: 15px;
+  color: #000;
+}
